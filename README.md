@@ -3,7 +3,7 @@
   My name is Nikita and I'm a Business Administration and Information Systems student at Copenhagen Business School. Here's some info about me!
 
 - 🔭 Current project:
-  - Finalizing documentation of Heart Disease Prediction (Jupyter Notebook + Python + scikit-learn) and developing final features of SibRus(C#). 
+  - Developing final features of SibRus(C#) and InternetOfPets. 
   
 - 🌱 Interests:
   - Web Development
