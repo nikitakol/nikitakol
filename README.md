@@ -3,11 +3,12 @@
   My name is Nikita and I'm a Business Administration and Information Systems student at Copenhagen Business School. Here's some info about me!
 
 - 🔭 Current project:
-  - Developing final features of SibRus(C#) and InternetOfPets. 
+  - NULL
   
 - 🌱 Interests:
   - Web Development
   - Machine Learning
+  - Domain Driven Design
   
 💬 Reach me by LinkedIn! https://www.linkedin.com/in/nikitakolmakov/
 
