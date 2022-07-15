@@ -3,7 +3,7 @@
   My name is Nikita and I'm a Business Administration and Information Systems student at Copenhagen Business School. Here's some info about me!
 
 - 🔭 Current project:
-  - NULL
+  - Finishing SibRus
   
 - 🌱 Interests:
   - Web Development
